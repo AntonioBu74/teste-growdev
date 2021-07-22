@@ -1,0 +1,18 @@
+#quadro {
+    height: 300px;
+    width: 300px;
+    background-color: rgb(235, 16, 16);
+    margin: 50px auto;
+    background-image: url('../imagem/opalas.jpg');
+    background-size: contain;
+    background-blend-mode: luminosity;
+    border: 5px solid black;
+    border-radius: 50%;
+    
+}
+#texto {
+    border: 10px solid black;
+    margin: 50px;
+    /*Top, Right, Bottom , Left*/
+    padding: 25px 50px 75px 100px;
+}
