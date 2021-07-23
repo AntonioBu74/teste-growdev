@@ -17,15 +17,15 @@ body {
 }
 
 .hr1 {
-    height: 13px;
+    height: 20px;
     background-color: black);
     width: 100%;
 }
 
 .card-image {
     height: 100px;
-    width: 80px;
-    border-radius: 5%;
+    width: 100px;
+    border-radius: 50%;
     margin-top: 1em;
 }
 
@@ -133,4 +133,9 @@ body {
     }
 }
     
+#texto-1{
+}
 
+#texto-2{
+display: none;
+}
