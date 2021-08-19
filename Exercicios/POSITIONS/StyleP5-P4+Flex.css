@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.Quadro {
+    width: calc((100vh - 25px) / 5);
+    height: calc((100vh - 25px) / 5);
+    background-color: rgb(49, 48, 48);
+    margin: 0px 5px 5px 0px;
+}
+
+#fundo {
+    width: 100%;
+    min-width: 450px;
+    background-color: rgb(201, 199, 199);
+}
+
+.linha {
+    display: flex;
+}
+
+.linha-3 {
+    justify-content: space-between;
+}
+
+.linha-4, .linha-5 {
+    justify-content: flex-end;
+}

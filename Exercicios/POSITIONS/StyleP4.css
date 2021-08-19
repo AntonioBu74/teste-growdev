@@ -1,0 +1,114 @@
+body{
+    margin: 10px;
+    padding: 10px;
+}
+
+.QE1 {
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    margin-bottom: 5px;
+    margin-top: 0px;
+}
+
+.QE2 {
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    margin-bottom: 5px;
+    margin-left: 105px;
+    margin-top: -105px;
+}
+
+.QE3 {
+    background-color: black;
+    width: 100px;
+    height: 100px;;
+    margin-bottom: 5px;
+    margin-left: 210px;
+    margin-top: -105px;
+}
+.QE4 {
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    margin-bottom: 5px;
+    margin-left: 105px;
+    position: relative;
+    float: left;
+}
+
+.QE5 {
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    margin-bottom: 5px;
+}
+
+.QE6 {
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    margin-bottom: 5px;
+}
+
+.QD7 {
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    margin-bottom: 5px;
+    margin-left: 105px;
+    float: right;
+    margin-top: -105px;
+}
+
+.QD8 {
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    margin-bottom: 5px;
+    margin-left: 105px;
+    float: right;
+    margin-top: 0px;
+}
+.QD9 {
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    margin-bottom: 5px;
+    margin-right: -205px;
+    float: right;
+    margin-top: 105px;
+}
+.QD10 {
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    margin-bottom: 5px;
+    margin-right: -100px;
+    float: right;
+}
+.QD11 {
+    background-color: black;
+    width: 100px;
+    height: 100px;;
+    margin-bottom: 5px;
+    margin-right: -100px;
+    float: right;
+    margin-top: 105px;
+}
+.QD12 {
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    float: right;
+    margin-top: 105px;
+}
+
+#fundo {
+    width: 1000px;
+    height: 520px;
+    background-color: rgb(129, 123, 123);
+}

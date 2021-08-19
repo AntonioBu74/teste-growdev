@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(131, 122, 122);
+}
+
+body {
+    height: 100vh;
+}
+
+.Azul {
+    background-color: #1414df;
+    margin-top: 80px;
+    margin-bottom: 50px;
+    margin-left: 500px;
+    height: 600px;
+    width: 600px;
+    position: absolute;
+}
+
+.Vermelho {
+    background-color: rgb(228, 22, 22);
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 80px;
+    height: 500px;
+    width: 450px;
+    position: absolute;
+}
+
+.Preto {
+    background-color: black;
+    margin: 75px;
+    width: 300px;
+    height: 350px;
+    position: absolute;
+}
+
+.Verde {
+    background-color: rgb(14, 129, 14);
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    margin: 50px;
+    margin-top: 75px;
+
+}
+
+.Amarelo {
+    background-color: hsl(60, 100%, 50%);
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    margin: 50px;
+    margin-top: 50px;
+}
+
+header {
+    margin: 10px;
+}
